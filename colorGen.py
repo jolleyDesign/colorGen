@@ -16,6 +16,7 @@ hexVal = "#" + hexVal.upper()
 print(hexVal)
 
 window = Tk()
+window.title(hexVal)
 window.geometry("500x500")
 window.config(background=hexVal)
 
