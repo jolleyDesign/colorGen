@@ -11,6 +11,6 @@ I'm sure a thousand projects just like this exist, but this is mine!
 - Added button to choose a new color, making it easier to refresh the GUI.
 - Made the HEX value selectable and copyable.
 
-![Screenshot from 2022-06-27 01-14-14](https://user-images.githubusercontent.com/108022961/175881215-d8cccf3d-3eb0-4fad-bffe-a11278980956.png)
-![Color generator](https://user-images.githubusercontent.com/108022961/175881219-bb631c53-e615-47c9-ae19-897db985369a.png)
-![Screenshot from 2022-06-27 01-15-11](https://user-images.githubusercontent.com/108022961/175881367-0057ba2e-9cc7-4507-baf0-f33cdacab710.png)
+
+![Screenshot from 2022-06-27 13-11-38](https://user-images.githubusercontent.com/108022961/176017740-df779568-dc36-4fd4-b6c9-03f7163b327a.png)
+![Screenshot from 2022-06-27 13-11-46](https://user-images.githubusercontent.com/108022961/176017748-29ee7e8b-3234-4e38-80a6-e5ede98683b0.png)
