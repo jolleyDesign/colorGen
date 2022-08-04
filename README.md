@@ -14,3 +14,7 @@ I'm sure a thousand projects just like this exist, but this is mine!
 
 ![Screenshot from 2022-06-27 13-11-38](https://user-images.githubusercontent.com/108022961/176017740-df779568-dc36-4fd4-b6c9-03f7163b327a.png)
 ![Screenshot from 2022-06-27 13-11-46](https://user-images.githubusercontent.com/108022961/176017748-29ee7e8b-3234-4e38-80a6-e5ede98683b0.png)
+
+## Prerequisites
+
+tkinter library/module is needed in order to compile the window.
