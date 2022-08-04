@@ -18,3 +18,8 @@ I'm sure a thousand projects just like this exist, but this is mine!
 ## Prerequisites
 
 tkinter library/module is needed in order to compile the window.
+This app was built with python3, and python2 is not supported.
+
+## Usage and installation
+
+Run the colorGen.py file from command line, passing no arguments.
